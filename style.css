@@ -23,6 +23,7 @@ body {
     color: var(--text-color);
     line-height: 1.6;
     background-size: contain;
+    -webkit-overflow-scrolling: touch;
     animation: fundo 2100s linear infinite;
 }
 
